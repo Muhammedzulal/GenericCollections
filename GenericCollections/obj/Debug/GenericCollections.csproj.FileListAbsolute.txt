@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
+C:\Users\muham\source\repos\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe.config
